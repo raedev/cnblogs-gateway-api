@@ -1,0 +1,5 @@
+server:
+  port: 8080
+spring:
+  datasource:
+    url: "jdbc:mysql://cnblogs.dev:3306/cnblogs?useSSL=false"
