@@ -33,4 +33,6 @@ build/
 .vscode/
 
 .mvn/
-/src/main/resources/prod.yml
+
+## 忽略配置环境
+/src/main/resources/application-prod.yml

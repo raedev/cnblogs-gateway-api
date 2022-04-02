@@ -1,0 +1,681 @@
+[
+  {
+    "categoryId": "108698",
+    "name": ".NET技术",
+    "orderNo": 0,
+    "parentId": "0",
+    "type": "TopSiteCategory"
+  },
+  {
+    "categoryId": "2",
+    "name": "后端开发",
+    "orderNo": 0,
+    "parentId": "0",
+    "type": "TopSiteCategory"
+  },
+  {
+    "categoryId": "108701",
+    "name": "软件设计",
+    "orderNo": 0,
+    "parentId": "0",
+    "type": "TopSiteCategory"
+  },
+  {
+    "categoryId": "108703",
+    "name": "前端开发",
+    "orderNo": 0,
+    "parentId": "0",
+    "type": "TopSiteCategory"
+  },
+  {
+    "categoryId": "108704",
+    "name": "企业信息化",
+    "orderNo": 0,
+    "parentId": "0",
+    "type": "TopSiteCategory"
+  },
+  {
+    "categoryId": "108705",
+    "name": "移动端开发",
+    "orderNo": 0,
+    "parentId": "0",
+    "type": "TopSiteCategory"
+  },
+  {
+    "categoryId": "108709",
+    "name": "软件工程",
+    "orderNo": 0,
+    "parentId": "0",
+    "type": "TopSiteCategory"
+  },
+  {
+    "categoryId": "108712",
+    "name": "数据库",
+    "orderNo": 0,
+    "parentId": "0",
+    "type": "TopSiteCategory"
+  },
+  {
+    "categoryId": "108724",
+    "name": "操作系统",
+    "orderNo": 0,
+    "parentId": "0",
+    "type": "TopSiteCategory"
+  },
+  {
+    "categoryId": "4",
+    "name": "其他分类",
+    "orderNo": 0,
+    "parentId": "0",
+    "type": "TopSiteCategory"
+  },
+  {
+    "categoryId": "18156",
+    "name": ".NET新手区",
+    "orderNo": 0,
+    "parentId": "108698",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "108699",
+    "name": "ASP.NET",
+    "orderNo": 0,
+    "parentId": "108698",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "108700",
+    "name": "C#",
+    "orderNo": 0,
+    "parentId": "108698",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "108760",
+    "name": ".NET Core",
+    "orderNo": 0,
+    "parentId": "108698",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "108716",
+    "name": "WinForm",
+    "orderNo": 0,
+    "parentId": "108698",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "108717",
+    "name": "Silverlight",
+    "orderNo": 0,
+    "parentId": "108698",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "108718",
+    "name": "WCF",
+    "orderNo": 0,
+    "parentId": "108698",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "108719",
+    "name": "CLR",
+    "orderNo": 0,
+    "parentId": "108698",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "108720",
+    "name": "WPF",
+    "orderNo": 0,
+    "parentId": "108698",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "108728",
+    "name": "XNA",
+    "orderNo": 0,
+    "parentId": "108698",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "108729",
+    "name": "Visual Studio",
+    "orderNo": 0,
+    "parentId": "108698",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "108730",
+    "name": "ASP.NET MVC",
+    "orderNo": 0,
+    "parentId": "108698",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "108738",
+    "name": "控件开发",
+    "orderNo": 0,
+    "parentId": "108698",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "108739",
+    "name": "Entity Framework",
+    "orderNo": 0,
+    "parentId": "108698",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "108758",
+    "name": "NHibernate",
+    "orderNo": 0,
+    "parentId": "108698",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "108745",
+    "name": "WinRT/Metro",
+    "orderNo": 0,
+    "parentId": "108698",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "108763",
+    "name": "UWP",
+    "orderNo": 0,
+    "parentId": "108698",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "106876",
+    "name": "Java",
+    "orderNo": 0,
+    "parentId": "2",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "106880",
+    "name": "C++",
+    "orderNo": 0,
+    "parentId": "2",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "106882",
+    "name": "PHP",
+    "orderNo": 0,
+    "parentId": "2",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "106877",
+    "name": "Delphi",
+    "orderNo": 0,
+    "parentId": "2",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "108696",
+    "name": "Python",
+    "orderNo": 0,
+    "parentId": "2",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "106894",
+    "name": "Ruby",
+    "orderNo": 0,
+    "parentId": "2",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "108735",
+    "name": "C语言",
+    "orderNo": 0,
+    "parentId": "2",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "108746",
+    "name": "Erlang",
+    "orderNo": 0,
+    "parentId": "2",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "108748",
+    "name": "Go",
+    "orderNo": 0,
+    "parentId": "2",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "108751",
+    "name": "Swift",
+    "orderNo": 0,
+    "parentId": "2",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "108752",
+    "name": "Scala",
+    "orderNo": 0,
+    "parentId": "2",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "108753",
+    "name": "R语言",
+    "orderNo": 0,
+    "parentId": "2",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "108742",
+    "name": "Verilog",
+    "orderNo": 0,
+    "parentId": "2",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "108765",
+    "name": "Dart",
+    "orderNo": 0,
+    "parentId": "2",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "108754",
+    "name": "其他语言",
+    "orderNo": 0,
+    "parentId": "2",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "106892",
+    "name": "架构设计",
+    "orderNo": 0,
+    "parentId": "108701",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "108702",
+    "name": "面向对象",
+    "orderNo": 0,
+    "parentId": "108701",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "106884",
+    "name": "设计模式",
+    "orderNo": 0,
+    "parentId": "108701",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "108750",
+    "name": "领域驱动设计",
+    "orderNo": 0,
+    "parentId": "108701",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "106883",
+    "name": "Html/Css",
+    "orderNo": 0,
+    "parentId": "108703",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "106893",
+    "name": "JavaScript",
+    "orderNo": 0,
+    "parentId": "108703",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "108731",
+    "name": "jQuery",
+    "orderNo": 0,
+    "parentId": "108703",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "108737",
+    "name": "HTML5",
+    "orderNo": 0,
+    "parentId": "108703",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "108761",
+    "name": "BPM",
+    "orderNo": 0,
+    "parentId": "108704",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "78111",
+    "name": "SharePoint",
+    "orderNo": 0,
+    "parentId": "108704",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "50349",
+    "name": "GIS技术",
+    "orderNo": 0,
+    "parentId": "108704",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "106878",
+    "name": "SAP",
+    "orderNo": 0,
+    "parentId": "108704",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "108732",
+    "name": "Oracle ERP",
+    "orderNo": 0,
+    "parentId": "108704",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "108734",
+    "name": "Dynamics",
+    "orderNo": 0,
+    "parentId": "108704",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "108749",
+    "name": "信息安全",
+    "orderNo": 0,
+    "parentId": "108704",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "3",
+    "name": "企业信息化其他",
+    "orderNo": 0,
+    "parentId": "108704",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "108706",
+    "name": "Android开发",
+    "orderNo": 0,
+    "parentId": "108705",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "108707",
+    "name": "iOS开发",
+    "orderNo": 0,
+    "parentId": "108705",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "108736",
+    "name": "Windows Phone",
+    "orderNo": 0,
+    "parentId": "108705",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "108708",
+    "name": "Windows Mobile",
+    "orderNo": 0,
+    "parentId": "108705",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "106886",
+    "name": "其他手机开发",
+    "orderNo": 0,
+    "parentId": "108705",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "108710",
+    "name": "敏捷开发",
+    "orderNo": 0,
+    "parentId": "108709",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "106891",
+    "name": "项目与团队管理",
+    "orderNo": 0,
+    "parentId": "108709",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "106889",
+    "name": "软件工程其他",
+    "orderNo": 0,
+    "parentId": "108709",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "108713",
+    "name": "SQL Server",
+    "orderNo": 0,
+    "parentId": "108712",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "108714",
+    "name": "Oracle",
+    "orderNo": 0,
+    "parentId": "108712",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "108715",
+    "name": "MySQL",
+    "orderNo": 0,
+    "parentId": "108712",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "108767",
+    "name": "PostgreSQL",
+    "orderNo": 0,
+    "parentId": "108712",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "108743",
+    "name": "NoSQL",
+    "orderNo": 0,
+    "parentId": "108712",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "108756",
+    "name": "大数据",
+    "orderNo": 0,
+    "parentId": "108712",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "106881",
+    "name": "其他数据库",
+    "orderNo": 0,
+    "parentId": "108712",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "108721",
+    "name": "Windows",
+    "orderNo": 0,
+    "parentId": "108724",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "108725",
+    "name": "Windows Server",
+    "orderNo": 0,
+    "parentId": "108724",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "108726",
+    "name": "Linux",
+    "orderNo": 0,
+    "parentId": "108724",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "108755",
+    "name": "OS X",
+    "orderNo": 0,
+    "parentId": "108724",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "108757",
+    "name": "嵌入式",
+    "orderNo": 0,
+    "parentId": "108724",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "807",
+    "name": "非技术区",
+    "orderNo": 0,
+    "parentId": "4",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "106879",
+    "name": "软件测试",
+    "orderNo": 0,
+    "parentId": "4",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "33909",
+    "name": "代码与软件发布",
+    "orderNo": 0,
+    "parentId": "4",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "106885",
+    "name": "计算机图形学",
+    "orderNo": 0,
+    "parentId": "4",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "108759",
+    "name": "游戏开发",
+    "orderNo": 0,
+    "parentId": "4",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "106888",
+    "name": "程序人生",
+    "orderNo": 0,
+    "parentId": "4",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "106890",
+    "name": "求职面试",
+    "orderNo": 0,
+    "parentId": "4",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "5079",
+    "name": "读书区",
+    "orderNo": 0,
+    "parentId": "4",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "4347",
+    "name": "转载区",
+    "orderNo": 0,
+    "parentId": "4",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "108733",
+    "name": "Windows CE",
+    "orderNo": 0,
+    "parentId": "4",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "106875",
+    "name": "翻译区",
+    "orderNo": 0,
+    "parentId": "4",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "108722",
+    "name": "开源研究",
+    "orderNo": 0,
+    "parentId": "4",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "108723",
+    "name": "Flex",
+    "orderNo": 0,
+    "parentId": "4",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "108740",
+    "name": "云计算",
+    "orderNo": 0,
+    "parentId": "4",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "108741",
+    "name": "算法与数据结构",
+    "orderNo": 0,
+    "parentId": "4",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "108762",
+    "name": "人工智能",
+    "orderNo": 0,
+    "parentId": "4",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "108764",
+    "name": "区块链",
+    "orderNo": 0,
+    "parentId": "4",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "108766",
+    "name": "网络安全",
+    "orderNo": 0,
+    "parentId": "4",
+    "type": "SiteCategory"
+  },
+  {
+    "categoryId": "7734",
+    "name": "其他技术区",
+    "orderNo": 0,
+    "parentId": "4",
+    "type": "SiteCategory"
+  }
+]

@@ -1,16 +1,18 @@
 package com.cnblogs.gateway.controller;
 
+import com.cnblogs.gateway.domain.AppCategory;
+import com.cnblogs.gateway.domain.AppVersion;
+import com.cnblogs.gateway.model.AppConfig;
+import com.cnblogs.gateway.service.AppService;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import java.util.HashMap;
-import java.util.Map;
+import java.util.List;
 
 /**
  * App相关接口
  * GET /app
- *
  * @author RAE
  * @date 2022/03/20
  * Copyright (c) https://github.com/raedev All rights reserved.
@@ -19,12 +21,24 @@ import java.util.Map;
 @RequestMapping("/app")
 public class AppController {
 
+    AppService mService;
+
+    public AppController(AppService mService) {
+        this.mService = mService;
+    }
+
     @GetMapping("/config")
-    public Map<String, Object> getConfig() {
-        Map<String, Object> config = new HashMap<>();
-        config.put("versionCode", 1);
-        config.put("versionName", "1.0.0");
-        config.put("downloadUrl", "https://cnblogs.com/download/");
-        return config;
+    public AppConfig getConfig() {
+        return mService.getConfig();
+    }
+
+    @GetMapping("/version")
+    public AppVersion getVersion() {
+        return mService.getVersion();
+    }
+
+    @GetMapping("/category")
+    public List<AppCategory> getCategory() {
+        return mService.getCategory();
     }
 }

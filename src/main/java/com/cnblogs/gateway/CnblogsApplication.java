@@ -12,10 +12,9 @@ public class CnblogsApplication {
         ConfigurableApplicationContext context = SpringApplication.run(CnblogsApplication.class, args);
         Environment environment = context.getBean(Environment.class);
         String port = environment.getProperty("local.server.port");
-        System.out.println("================================================");
-        System.out.println("$ Cnblogs server is running on port " + port);
-        System.out.println("$ https://github.com/raedev/cnblogs-gateway-api ");
-        System.out.println("================================================");
+        System.out.println("====================================================");
+        System.out.println("$ Welcome! Cnblogs server is running on port " + port);
+        System.out.println("====================================================");
     }
 
 }
